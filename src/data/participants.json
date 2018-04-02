@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Misa",
+        "imgSrc": "https://kyleshaver.s3.amazonaws.com/mesa2.JPG"
+    },
+    {
+        "name": "Ethan",
+        "imgSrc": "https://kyleshaver.s3.amazonaws.com/ethan.JPG"
+    },
+    {
+        "name": "Kyle",
+        "imgSrc": "https://kyleshaver.s3.amazonaws.com/kyle.JPG"
+    },
+    {
+        "name": "Pete",
+        "imgSrc": "https://kyleshaver.s3.amazonaws.com/pete.JPG"
+    },
+    {
+        "name": "Rene",
+        "imgSrc": "https://kyleshaver.s3.amazonaws.com/rene.JPG"
+    },
+    {
+        "name": "Mario",
+        "imgSrc": "https://kyleshaver.s3.amazonaws.com/mario.JPG"
+    }
+]
