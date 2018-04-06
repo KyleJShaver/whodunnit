@@ -56,7 +56,7 @@ function reload() {
     },
   ];
   for (let i = 0; i < participants.length; i += 1) {
-    participants[i].key = Date.now() + i;
+    participants[i].key = `${participants[i].name}-${participants[i].imgSrc}`;
   }
   return JSON.parse(JSON.stringify(participants));
 }
